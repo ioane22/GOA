@@ -1,0 +1,11 @@
+name = input("enter your name")
+print(name)
+surname = input("enter your surname")
+print(surname)
+age = input("enter your age")
+print(age)
+
+color = input("enter your color")
+print(color)
+number = input("enter your number")
+print(number)
