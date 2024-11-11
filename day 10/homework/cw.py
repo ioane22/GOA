@@ -5,3 +5,7 @@ name = input("გამარჯობა სახელი აქ")
 surname = input("გამარჯობა გვარი აქ")
 print(name)
 print(surname)
+
+
+
+#  day 11
