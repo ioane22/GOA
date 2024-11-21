@@ -13,16 +13,5 @@ name = "ioane"
 print(name)
 age = 9
 print(age)
-num1 = 13
-num1 = 9
-print(num1)
 
-
-
-
-
-sports = "football"
-sports ="basketball"
-sports ="tenis"
-print(sports)
 

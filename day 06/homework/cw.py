@@ -1,12 +1,26 @@
+
+# გაყოფა
+print(4 / 2)
+print(8 / 4)
+print(5 / 5)
+print(6 / 2)
+print(9 / 3)
+print(4 / 2)
+print(8 / 4)
+print(8 / 5)
+print(4 / 2)
+print(6 / 3)
+print(10 / 2)
+# მიმატება
 print(4 + 6)
 print(5 + 8)
 print(2 + 7)
 print(8 + 6)
 print(5 + 9)
 print(5 + 1) 
-print (9 + 4)
+print(9 + 4)
 print(10 + 5)
-print (5 + 9)
+print(5 + 9)
 print(8 + 3)
 # გამოკლება
 print(10 - 4)
@@ -30,22 +44,3 @@ print(3 * 9)
 print(8 * 3)
 print(6 * 2)
 print(4 * 1)
-print(5 * 9)
-# გაყოფა
-print(4 / 2)
-print(8 / 4)
-print(5 / 5)
-print(6 / 2)
-print(9 / 3)
-print(4 / 2)
-print(8 / 4)
-print(8 / 5)
-print(4 / 2)
-print(6 / 3)
-print(10 / 2)
-
-
-
-
-
-
