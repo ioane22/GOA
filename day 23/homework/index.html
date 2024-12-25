@@ -1,0 +1,113 @@
+<!-- 1. შევქმნათ audio თეგი 2. audio თეგში მოვათავსოთ source ატრიბუტი 3.src ატრიბუტში ჩავწეროთ აუდიოს სახელი 4.type ჩავწეროთ audio/ და აუდიოს ბოლო სახელი -->
+<!-- audio - გამოიყენება რომ აუდიო შეიქმნას აუდიო controls - გამოიყენება რომ უფრო დაიხვეწოს აუდიო -->
+<!-- src - გამოიყენება რომ მივუთითოთ რომელი ვიდეო/აუდიო ჩრაირთოს type - გამოიყენება რომ გაეშვას ვიდეა/აუდიო controls - გამოიყენება ვიდეოს გაფართოებაში autoplay - გამოიყენება რომ ავტომატურად ჩართოს ვიდეო/აუდიო loop - გამოიყენება რომ თავიდან ჩართოს ვიდეო/აუდიო muted - გამოიყენება რომ ხმის გარეშე ჩაირთოს ვიდეო/აუდიო -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="intro.mp3">go to mp3</a>
+            <a href="intro2.wav">go to wav</a>
+
+        </nav>
+         <hr>
+    </header>
+
+
+    <main>
+    <ul>
+        <li>bmw</li>
+        <li>mersedes</li>
+        <li>audi</li>
+        <li>toyote</li>
+        <li>ford</li>
+        <hr>
+    </ul>
+    <ol>
+        <li>buggati</li>
+        <li>porche</li>
+        <li>ferrari</li>
+        <li>lamborghin</li>
+        <li>tesla</li>
+    </ol>
+    <img src="1.png" alt=""width="500px" height="500px">
+    <img src="2.png" alt=""width="500px" height="500px">
+    <img src="3.png" alt=""width="500px" height="500px">
+    <img src="4.png" alt=""width="500px" height="500px">
+    <img src="5.png" alt=""width="500px" height="500px">
+    <img src="6.png" alt=""width="500px" height="500px">
+    <img src="7.png" alt=""width="500px" height="500px">
+    <img src="8.png" alt=""width="500px" height="500px">
+    <img src="9.png" alt=""width="500px" height="500px">
+    <img src="10.png" alt=""width="500px">
+    <video controls>
+        <hr>
+        <source src="countdown.mp4" type="video/mp4">
+    </video>
+    <audio controls>
+        <source src="intro.mp3" type="audio/mp3">
+        <source src="intro2.wav" type="audio/wav">
+    </audio>
+    <form>
+        <label for="text-1">name</label>
+        <input type="text"id="text-1" name="name" value="enter your name">
+        <br>
+        <label for="number-2">phone number</label>
+        <input type="number"id="number-2" name="phone number" value="enter your phone number">
+        <br>
+        <label for="email-3">email</label>
+        <input type="email"id="email-3" name="email" value="enter your email">
+        <br>
+        <label for="password-4">password</label>
+        <input type="password"id="password-4" name="password" value="enter your password">
+        <br>
+        <label for="text-5">surname</label>
+        <input type="text"id="text-5" name="surname" value="enter your surname">
+
+        <button type="submit">submit</button>
+        <hr>
+        <br>
+    </form>
+
+    <label for="selection-1">choose car brand</label>
+    <select id="selection-1" name="car brand">
+        <option value="buggati">buggati</option>
+        <option value="ferrari">ferrari</option>
+        <option value="porche">porche</option>
+    </select>
+    </main>
+    <footer>
+        <a href="#">Go to the beginning</a>
+        <hr>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
