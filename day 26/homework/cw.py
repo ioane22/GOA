@@ -22,3 +22,21 @@ elif operator == "/":
         print("0-ზე გაყოფა არ შეიძლება")
 else:
     print("არასწორი ოპერატორი")
+
+password = "Goa best"
+num1 = 0
+while True:
+    num2 = input("enter your password")
+
+    if num2 == password:
+        print("ყოჩაღ შენ გგამოიცანი პაროლი")
+        break
+    else:
+        num1 += 1
+        print("არასწორი პაროლი")
+        
+num3 = input("enter number: ")
+num4 = input("enter number: ")
+num5 = input("enter number: ")
+num6 = max(num3,num4,num5)
+print(num6)

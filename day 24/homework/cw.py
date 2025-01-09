@@ -3,51 +3,58 @@
 
 
 
-
 # +=
-print(20 += 20)
-print(15 += 28)
-print(23 += 29)
-print(34 += 2)
-print(65 += 67)
-print(43 += 545)
-print(56 += 5)
-print(34 += 45)
-print(345 += 78)
-print(23 += 74)
+num = 343
+num += 20
+print(num)
+
+num = 76
+num += 28
+print(num)
+
+num = 543
+num += 29
+print(num)
+
+num = 34
+num += 2
+print(num)
+
 # -=
-print(2053 -= 284)
-print(75 -= 2)
-print(785 -= 29)
-print(34654 -= 27954)
-print(542 -= 67)
-print(6789 -= 545)
-print(57 -= 5)
-print(90 -= 40)
-print(34 -= 7)
-print(28 -= 76)
+num = 2053
+num -= 284
+print(num)
+
+num = 75
+num -= 2
+print(num)
+
+num = 785
+num -= 29
+print(num)
+
+num = 34654
+num -= 27954
+print(num)
+
 # *=
-print(2053 *= 284)
-print(75 *= 2)
-print(785 *= 29)
-print(34654 *= 27954)
-print(542 *= 67)
-print(6789 *= 545)
-print(57 *= 5)
-print(90 *= 40)
-print(34 8= 7)
-print(28 *= 76)
+num = 2053
+num *= 284
+print(num)
+
+num = 75
+num *= 2
+print(num)
+
 # /=
-print(20 /= 20)
-print(15 /= 28)
-print(23 /= 29)
-print(34 /= 2)
-print(65 /= 67)
-print(43 /= 545)
-print(56 /= 5)
-print(34 /= 45)
-print(345 /= 78)
-print(23 /= 74)
+num = 20
+num /= 20
+print(num)
+
+num = 15
+num /= 28
+print(num)
+
 
 
 user_number = int(input("enter number: "))

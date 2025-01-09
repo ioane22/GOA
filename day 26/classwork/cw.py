@@ -26,3 +26,9 @@ elif score >= 70: print("C")
 elif score >= 60: print("D")
 else: print("F")
 
+
+num1 = int(input("enter your number"))
+num1 = int(input("enter your number"))
+if num1 > num2: range1 = range(num2, num1 + 1)
+elif num2 >num1: range1 = range(num1, num2 + 1)
+else: print("numbers are equal")
