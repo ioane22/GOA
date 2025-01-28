@@ -22,3 +22,5 @@ print("goa is best")
 
 
 print("ჯერ არავინ გავიცანი")
+
+
