@@ -1,0 +1,12 @@
+
+#div-block {
+    width: 500px;
+    height: 500px;
+    background-color: #00ff00;
+} 
+
+#child-div {
+    width: 20%;
+    height: 15%;
+    background-color: #000000;
+}

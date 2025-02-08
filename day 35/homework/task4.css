@@ -1,0 +1,31 @@
+
+.p {
+    color:rgb(0, 234, 0);
+    background-color: black;
+    
+}
+
+#p-1 {
+    color:#49a950;
+    background-color: gray;
+}
+
+#p-2 {
+    color:#c6478c;
+    background-color: yellow;
+}
+
+#p-3 {
+    color:#ffcc00;
+    background-color: red;
+}
+
+#p-4 {
+    color:#0000ff;
+    background-color: orangered;
+}
+
+#p-5 {
+    color:#000000;
+    background-color: white;
+}
