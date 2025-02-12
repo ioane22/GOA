@@ -1,0 +1,68 @@
+#p-1 {
+    text-align: right;
+    text-decoration: underline dotted green;
+    
+}
+
+#p-2 {
+    text-align: center ;
+    text-decoration: line-through solid;
+}
+
+#p-3 {
+    text-decoration: double red;
+}
+
+#p-4 {
+    text-align: center;
+    text-decoration: underline solid;
+}
+
+#p-5 {
+    text-align: right;
+    text-decoration: line-through dotted green;
+}
+
+#p-6 {
+    text-decoration: line-through solid;
+}
+
+#p-7 {
+    text-decoration: overline solid;
+}
+
+#p-8 {
+    text-align: right;
+    text-decoration: overline solid green ;
+    color: green;
+}
+
+#p-9 {
+    text-align: center;
+    text-decoration: overline solid gray;
+    color: gray;
+}
+
+#p-10 {
+    text-align: right;
+    text-decoration: underline dotted green;
+}
+
+
+
+/* საკლასო 2 */
+#text-1 {
+    text-shadow: 2px 3px 5px ;
+}
+
+
+/* 3 საკლასო*/
+#p-11{
+    text-decoration: underline solid;
+}
+#p-12 {
+    text-decoration: line-through;
+}
+#p-13 {
+    text-decoration: overline;
+}

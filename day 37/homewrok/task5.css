@@ -1,0 +1,30 @@
+
+#h2-1 {
+    text-decoration: line-through dotted aqua;
+    text-align: center;
+    text-shadow: -5px 10px 2px;
+}
+
+#h2-2 {
+    text-decoration: line-through dotted gray;
+    text-align: center;
+    text-shadow: -5px 10px 2px;
+}
+
+#h2-3 {
+    text-decoration: line-through dotted aqua;
+    text-align: left;
+    text-shadow: 5px -9px 3px;
+}
+
+#h2-4 {
+    text-decoration: overline white;
+    text-align: right;
+    text-shadow: -5px 10px 2px;
+}
+
+#h2-5 {
+    text-decoration: underline dashed bisque;
+    text-align: right;
+    text-shadow: 10px -12px 5px;
+}

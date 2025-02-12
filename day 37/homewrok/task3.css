@@ -1,0 +1,20 @@
+
+#h1 {
+    text-decoration: underline dashed gray;
+}
+
+#h2 {
+    text-decoration: line-through dotted orange;
+}
+
+#h3 {
+    text-decoration: line-through double green;
+}
+
+#h4 {
+    text-decoration: underline dotted red;
+}
+
+#h5 {
+    text-decoration: overline dashed blue;
+}

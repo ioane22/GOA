@@ -1,0 +1,11 @@
+#goa {
+    text-decoration: overline solid orangered;
+}
+
+#is {
+    text-decoration: dotted underline blue;
+}
+
+#best {
+    text-decoration: line-through double yellow;
+}
