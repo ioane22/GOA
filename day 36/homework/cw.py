@@ -60,9 +60,3 @@ def hw_2_isupper(x):
 # 3 დავალება
 hw_3_isupper = input("enter sentence: ")
 print(hw_3_isupper.issuper())
-
-
-
-
-
-
