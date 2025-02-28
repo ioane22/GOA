@@ -1,0 +1,53 @@
+
+/* 1 დავალება */
+#a-0:hover {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: none
+}
+
+/* 2 დავალება */
+#a-1 {
+    background-color: red;
+    color: green;
+    text-decoration: none;
+}
+
+/* 3 დავალება */
+#a-2 {
+    text-decoration: underline;
+}
+
+/* 4 დავალება */
+#a-3:hover {
+    color: aqua;
+}
+
+
+/* 5 დავალება */
+#a-4:visited {
+    color: blue;
+}
+
+
+/* 6 დავალება */
+#a-5:hover {
+    background-color: brown;
+}
+
+
+/* 7 დავალება*/
+#a-6:link {
+    font-weight: 700;
+}
+
+/* 8 დავალება */
+#a-7 {
+    font-style: italic;
+}
+
+/* 9 დავალება */
+#a-8 {
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+/* 1 საკლასო */
+a:hover {
+    color: green;
+    font-size: 20px;
+}
+
+a:active {
+    background-color: black;
+    color: white;
+}
