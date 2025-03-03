@@ -17,17 +17,36 @@ d_b_sum = sum_odd(7, 9)
 print(d_b_sum)
 
 # 3 დავალება
-# ვერ გავიგე
+
+def greet(even_arr):
+    x = []
+    y = []
+    for i in even_arr:
+        if i %2 == 0:
+            x.append(i) 
+        else:
+            y.append(i)
+    num = sum(x)
+    num1 = sum(y)
+    num2 = num1 * num2
+    return num2
+
 
 
 # 4 დავალება
 # ჰეიჩტიემელის დავალება
 
 # 5 დავალება
-# ვერ გავიგე
+# Counting sheep...
+def count_sheeps(sheep):
+    return sheep.count(True)
 
 # 6 დავალება
-# ვერ გავიგე
+# Remove String Spaces
+def no_space(x):    
+    return x.replace(" ", "")
 
 # 7 დავალება
-# ვერ გავიგე
+# Returning Strings
+def greet(name):
+    return f"Hello, {name} how are you doing today?"

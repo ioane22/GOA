@@ -1,0 +1,100 @@
+
+/* 1 დავალება */
+#table-1 th {
+    background-color: red;
+    color: white;
+}
+
+#td-2 {
+    background-color: gray;
+}
+
+#td-4 {
+    background-color: gray;
+}
+
+#table-1, #table-1 th, #table-1 td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+/* 1 დავალება */
+#table-2 th {
+    background-color: green;
+    color: white;
+}
+
+#td-hw-2 {
+    background-color: gray;
+}
+
+#td-2-hw-2 {
+    background-color: gray;
+}
+
+#table-2, #table-2 th, #table-2 td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+/* 1 დავალება */
+#table-3 th {
+    background-color: blue;
+    color: white;
+}
+
+#td-2-hw-3 {
+    background-color: gray;
+}
+
+#table-3, #table-3 th, #table-3 td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+/* 2 დავალება */
+
+#table-4 th {
+    background-color: sandybrown ;
+}
+
+#table-4 {
+    border: 2px solid black;
+}
+
+#table-4, #table-4 th, #table-4 td {
+    text-align: center;
+}
+
+/* 3 დავალება */
+#ul-1 {
+    list-style-type: none;
+}
+
+/* 4 დავალება */
+#ol-1 li:nth-child(even) {
+    background-color: red;
+}
+
+/* 5 დავალება */
+#ul-2 li:nth-child(3) {
+    color: aqua;
+}
+
+/* 6 დავალება */
+#ol-2 {
+    list-style-type: georgian;
+}
+
+/* 7 დავალება */
+#ul-3:first-child {
+    font-weight: bold;
+}
+
+#ul-3:last-child {
+    font-weight: bold;
+}

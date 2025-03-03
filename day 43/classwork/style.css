@@ -1,0 +1,50 @@
+/* 1 საკლასო */
+#tr-1 {
+    background-color: green;
+}
+
+#tr-3 {
+    background-color: gray;
+}
+
+#tr-5 {
+    background-color: gray;
+}
+
+table {
+    border: 1px solid black;
+}
+
+/* 2 საკლასო */
+
+
+
+#tr-th {
+    background-color: green;
+}
+
+#td-1 {
+    color: green;
+
+}
+
+#td-2 {
+    color: green;
+
+}
+
+#td-3 {
+    color: green;
+}
+
+#td-4 {
+    color: green;
+}
+
+/* 3 საკლასო */
+#ul {
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+
