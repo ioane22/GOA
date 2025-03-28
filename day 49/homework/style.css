@@ -1,0 +1,162 @@
+/* 1 დავალება */
+.flex-container {
+    display: flex;           
+    justify-content: space-between; 
+}
+
+.item {
+    padding: 20px;
+    background-color: green;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+/* 2 დავალება */
+.flex-container {
+    display: flex;                  
+    justify-content: center;         
+    align-items: center;             
+    height: 200px;                   
+}
+
+.item {
+    padding: 20px;
+    background-color: blue;
+    border: 1px solid #ccc;
+    text-align: center;
+} 
+
+/* 3 დავალება */
+.parent-2 {
+    display: flex;                     
+    justify-content: space-between;     
+    width: 100%;                        
+}
+
+.clidren-2 {
+    padding: 20px;
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+/* 4 დავალება */
+.item {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #4CAF50;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.double-size {
+    transform: scale(2);  /* ორჯერ გაიზრდება */
+}
+
+/* 5 დავალება */
+.container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    gap: 10px; 
+}
+
+.item2 {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+    transition: all 0.3s ease;
+}
+
+.reverse-order {
+    flex-direction: row-reverse; 
+}
+
+/* 6 დავალება */
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; 
+    justify-content: flex-start; 
+    align-items: center; 
+}
+.container-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    height: 100%; 
+    gap: 10px;
+}
+.item3 {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+    transition: all 0.3s ease;
+}
+.bottom-item {
+    margin-top: auto; 
+}
+
+/* 7 დავალება */
+.container-3 {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 10px; 
+    justify-content: flex-start; 
+}
+.item4 {
+    width: 150px;
+    height: 150px;
+    background-color: #4CAF50;
+    transition: all 0.3s ease;
+}
+
+/* 8 დავალება */
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0;
+}
+.container-4 {
+    display: flex;
+    flex-direction: row; 
+    gap: 10px; 
+}
+.item5 {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+}
+
+/* 9 დავალება */
+.container-5 {
+    display: flex;
+    justify-content: space-between; 
+    gap: 10px; 
+}
+.item6 {
+    flex: 1; 
+    height: 100px;
+    background-color: #4CAF50;
+    text-align: center; 
+    line-height: 100px; 
+    color: white;
+}
+
+/* 10 დავალება */
+.container {
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+    align-items: center;
+}
+.item {
+    width: 150px;
+    height: 100px;
+    background-color: #4CAF50;
+    text-align: center; 
+    line-height: 100px; 
+    color: white;
+}

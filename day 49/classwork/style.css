@@ -1,0 +1,54 @@
+
+#parent{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+#parent  div{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+#div1 {
+    background-color: green;
+}
+
+#div2 {
+    background-color: blue;
+}
+
+#div3 {
+    background-color: red;
+}
+
+/* 2 დავალება */
+#parent2 {
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+    display: flex;
+    flex-flow:column wrap ;
+    gap:50px;
+
+    
+}
+
+#parent2 div{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+
+

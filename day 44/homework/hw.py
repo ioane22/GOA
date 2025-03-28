@@ -74,5 +74,8 @@ def digitize(n):
 # და შემდეგ სფეისის შეცვლა ანუ replace 
 # შეცვლის სფეის
 
+# 3 დავალება
+# Beginner - Lost Without a Map
+
 
 
