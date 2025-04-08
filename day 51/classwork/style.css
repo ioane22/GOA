@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    position: relative;
+}
+
+body div {
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: 700px;
+    font-weight: 900px;
+}
+
+
+div {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+}
+
+#chlidren-1 {
+    background-color: red;
+    left: 0px;
+    top: 0px;
+}
+
+#chlidren-2 {
+    background-color: green;
+    right: 0px;
+    top: 0px;
+}
+
+#chlidren-3 {
+    background-color: blue;
+    left: 0px;
+    bottom: 0px;
+}
+
+#children-4 {
+    background-color: purple;
+    right: 0px;
+    bottom: 0px;
+}
+
+#chlidren-5 {
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#main-div {
+    width: 1000px;
+    height: 750px;
+    background-image: url(image.png);
+    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
